@@ -7,3 +7,21 @@
 <li>The user can select what colour (blue, green or orange) the lyrics will be displayed.</li>
 <li>	The animal names and their sounds will be displayed in uppercase letters. </li>
 <li>	When the user clicks on the [Generate] button, the lyrics will be generated with the input animals and sounds in the specified colour.</li><br>
+
+
+<i class="fa fa-file-image-o"></i>  Here are screenshots of my application.
+   
+     <img 
+     src="Images/sc1.png" alt="Norway" style="width:100%" >
+
+    
+     <img 
+     src="Images/sc2.png" alt="Norway" style="width:100%" >
+
+    
+     <img 
+     src="Images/sc3.png" alt="Norway" style="width:100%" >
+
+     <img
+     src="Images/sc3.png" alt="Norway" style="width:100%" >
+  
