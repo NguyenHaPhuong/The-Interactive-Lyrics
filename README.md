@@ -11,10 +11,10 @@
 
 <i class="fa fa-file-image-o"></i>  Here are screenshots of my application.
    
-<img src="Images/sc1.png" alt="Norway" style="width:500px; heigh:400px" >
+<img src="Images/sc1.png" alt="Norway" style="width:300px; heigh:200px" >
 
-<img src="Images/sc2.png" alt="Norway" style="width:500px; heigh:400px" >
+<img src="Images/sc2.png" alt="Norway" style="width:300px; heigh:200px" >
 
-<img  src="Images/sc3.png" alt="Norway" style="width:500px; heght:400px" >
+<img  src="Images/sc3.png" alt="Norway" style="width:300px; heght:200px" >
 
 
